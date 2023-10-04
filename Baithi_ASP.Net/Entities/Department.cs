@@ -1,0 +1,6 @@
+﻿namespace Baithi_ASP.Net.Entities
+{
+    public class Department
+    {
+    }
+}
